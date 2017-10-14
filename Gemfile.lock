@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.1.0)
+    httparty (0.15.6)
+      multi_xml (>= 0.5.2)
+    multi_xml (0.6.0)
+    require_all (1.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug (~> 9.1)
+  httparty (~> 0.15.6)
+  require_all
+
+BUNDLED WITH
+   1.16.0.pre.3
