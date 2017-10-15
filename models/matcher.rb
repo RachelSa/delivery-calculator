@@ -1,3 +1,4 @@
+require 'byebug'
 class Matcher
   def run
     a = Adapter.new
