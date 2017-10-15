@@ -7,7 +7,7 @@
 # my implemented solution
   For my solution, I used Ruby to create a package and drone matching app.
 
-  There's no front-end interface of my application (only command line), because I envisioned this logic happening on the server-side of a larger application, such as within a Rails API. The models I created represent the packages, drones, and the logic needed to match them. These might be integrated with existing models for an application.
+  There's no front-end interface of my application (only command line), because I envisioned this logic happening on the server-side of a larger application, such as within a Rails API. The models I created represent the packages, drones, and the logic needed to match them. These might be integrated with an application's existing models.
 
 # models
 ## Adapter
