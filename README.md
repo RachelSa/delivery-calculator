@@ -1,7 +1,7 @@
 # running the application
  ```bundle install```
-
  ```ruby run.rb```
+ gif
 ![command line gif](https://media.giphy.com/media/3o7aD29j5SjqWDHJyU/giphy.gif)
 
 # my implemented solution
