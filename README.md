@@ -6,7 +6,7 @@
  ```
 ruby run.rb
  ```
-[command line gif](https://media.giphy.com/media/3o7aD29j5SjqWDHJyU/giphy.gif)
+![command line gif](https://media.giphy.com/media/3o7aD29j5SjqWDHJyU/giphy.gif)
 
 # my implemented solution
   For my solution, I used Ruby to create a package and drone matching app.
