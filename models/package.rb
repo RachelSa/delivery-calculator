@@ -1,4 +1,3 @@
-require 'byebug'
 class Package
   attr_reader :destination, :packageId, :deadline, :matches
 
@@ -8,8 +7,8 @@ class Package
     end
   end
 
-  def find_matches(drones)
-    byebug
+  def depo_to_dest
+    GeoCalculator.new(destination).calc_distance
   end
 
 end

@@ -1,6 +1,7 @@
 require 'require_all'
 
 require_all 'models'
-Matcher.new.run
 
-puts "done"
+puts "matching packages to drones..."
+Matcher.new.run
+puts "...done matching!"

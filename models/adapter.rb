@@ -1,5 +1,4 @@
 require 'httparty'
-require 'byebug'
 
 class Adapter
   def get_drones
@@ -18,9 +17,5 @@ class Adapter
     get_packages.map {|package| Package.new(package)}
   end
 
-  # def create_resources
-  #   make_drones
-  #   make_packages
-  # end
 
 end
